@@ -1,0 +1,11 @@
+{
+  "eslint.workingDirectories": [
+    "./src"
+  ],
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "javascript.updateImportsOnFileMove.enabled": "never"
+}
